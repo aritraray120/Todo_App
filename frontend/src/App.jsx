@@ -41,7 +41,7 @@ function App() {
   return (
 
     <div class="flex h-screen items-center justify-center bg-gray-100">
-      <div class="w-[80%] max-w-[600px] h-[80vh] rounded-lg p-5  flex flex-col">
+      <div class="w-[80%] max-w-[600px] h-[70vh] rounded-lg p-5  flex flex-col">
 
         <span class="text-[42px] font-[500]">TODO</span>
 
